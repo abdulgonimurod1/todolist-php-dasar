@@ -8,7 +8,7 @@ require_once __DIR__ . "/View/ViewRemoveTodoList.php";
 require_once __DIR__ . "/View/ViewShowTodoList.php";
 require_once __DIR__ . "/Helper/Input.php";
 
-echo "Welcome to the Todo List App!" . PHP_EOL;
+echo "Welcome to the Todo List App !" . PHP_EOL;
 
 // Menampilkan daftar todo list
 viewShowTodoList();
